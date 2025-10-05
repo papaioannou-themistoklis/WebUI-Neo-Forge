@@ -1,2 +1,2 @@
 # WebUI-Neo-Forge
- A version of Neo-Forge WebUI which supports Linux.
+Neo-Forge WebUI is a Linux-compatible iteration that serves as a continuation of the most recent Forge, which is based on Gradio 4.40.0, prior to lllyasviel becoming too occupied to oversee it. This fork emphasizes optimization and user-friendliness, striving to be the most lightweight WebUI devoid of superfluous bloatware. In essence, it is a derivative of Haoming02's original version of Forge WebUI, particularly tailored for Linux, with an emphasis on Kubuntu 24.04.
