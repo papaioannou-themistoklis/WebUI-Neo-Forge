@@ -5,6 +5,6 @@ To install it git clone https://github.com/papaioannou-themistoklis/WebUI-Neo-Fo
 Then cd WebUI-Neo-Forge (or just enter the main folder / root directory) and type in a Terminal:
 python3.11 -m venv venv
 source venv/bin/activate
-After run webui.user.bat (if on Windows) 
+After run webui-user.bat (if on Windows) 
 or webui.sh (if on Linux)
 
